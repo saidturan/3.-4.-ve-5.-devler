@@ -1,0 +1,4 @@
+C:\Users\Said\source\repos\SpeechToText\SpeechToText\obj\Debug\SpeechToText.csproj.AssemblyReference.cache
+C:\Users\Said\source\repos\SpeechToText\SpeechToText\obj\Debug\SpeechToText.Properties.Resources.resources
+C:\Users\Said\source\repos\SpeechToText\SpeechToText\obj\Debug\SpeechToText.csproj.GenerateResource.cache
+C:\Users\Said\source\repos\SpeechToText\SpeechToText\obj\Debug\SpeechToText.csproj.CoreCompileInputs.cache

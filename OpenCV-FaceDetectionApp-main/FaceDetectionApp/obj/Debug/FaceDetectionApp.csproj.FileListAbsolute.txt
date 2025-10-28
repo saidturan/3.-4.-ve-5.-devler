@@ -1,0 +1,4 @@
+C:\Users\Said\source\repos\FaceDetectionApp\FaceDetectionApp\obj\Debug\FaceDetectionApp.csproj.AssemblyReference.cache
+C:\Users\Said\source\repos\FaceDetectionApp\FaceDetectionApp\obj\Debug\FaceDetectionApp.Properties.Resources.resources
+C:\Users\Said\source\repos\FaceDetectionApp\FaceDetectionApp\obj\Debug\FaceDetectionApp.csproj.GenerateResource.cache
+C:\Users\Said\source\repos\FaceDetectionApp\FaceDetectionApp\obj\Debug\FaceDetectionApp.csproj.CoreCompileInputs.cache

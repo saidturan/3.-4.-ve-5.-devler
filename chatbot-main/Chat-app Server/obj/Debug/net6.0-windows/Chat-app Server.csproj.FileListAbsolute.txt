@@ -1,0 +1,20 @@
+C:\Users\Said\source\repos\Chat-app\Chat-app Server\bin\Debug\net6.0-windows\Chat-app Server.exe
+C:\Users\Said\source\repos\Chat-app\Chat-app Server\bin\Debug\net6.0-windows\Chat-app Server.deps.json
+C:\Users\Said\source\repos\Chat-app\Chat-app Server\bin\Debug\net6.0-windows\Chat-app Server.runtimeconfig.json
+C:\Users\Said\source\repos\Chat-app\Chat-app Server\bin\Debug\net6.0-windows\Chat-app Server.dll
+C:\Users\Said\source\repos\Chat-app\Chat-app Server\bin\Debug\net6.0-windows\Chat-app Server.pdb
+C:\Users\Said\source\repos\Chat-app\Chat-app Server\bin\Debug\net6.0-windows\Communicator.dll
+C:\Users\Said\source\repos\Chat-app\Chat-app Server\bin\Debug\net6.0-windows\Communicator.pdb
+C:\Users\Said\source\repos\Chat-app\Chat-app Server\obj\Debug\net6.0-windows\Chat-app Server.csproj.AssemblyReference.cache
+C:\Users\Said\source\repos\Chat-app\Chat-app Server\obj\Debug\net6.0-windows\Chat_app_Server.Server.resources
+C:\Users\Said\source\repos\Chat-app\Chat-app Server\obj\Debug\net6.0-windows\Chat-app Server.csproj.GenerateResource.cache
+C:\Users\Said\source\repos\Chat-app\Chat-app Server\obj\Debug\net6.0-windows\Chat-app Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Said\source\repos\Chat-app\Chat-app Server\obj\Debug\net6.0-windows\Chat-app Server.AssemblyInfoInputs.cache
+C:\Users\Said\source\repos\Chat-app\Chat-app Server\obj\Debug\net6.0-windows\Chat-app Server.AssemblyInfo.cs
+C:\Users\Said\source\repos\Chat-app\Chat-app Server\obj\Debug\net6.0-windows\Chat-app Server.csproj.CoreCompileInputs.cache
+C:\Users\Said\source\repos\Chat-app\Chat-app Server\obj\Debug\net6.0-windows\Chat-app.B05670A3.Up2Date
+C:\Users\Said\source\repos\Chat-app\Chat-app Server\obj\Debug\net6.0-windows\Chat-app Server.dll
+C:\Users\Said\source\repos\Chat-app\Chat-app Server\obj\Debug\net6.0-windows\refint\Chat-app Server.dll
+C:\Users\Said\source\repos\Chat-app\Chat-app Server\obj\Debug\net6.0-windows\Chat-app Server.pdb
+C:\Users\Said\source\repos\Chat-app\Chat-app Server\obj\Debug\net6.0-windows\Chat-app Server.genruntimeconfig.cache
+C:\Users\Said\source\repos\Chat-app\Chat-app Server\obj\Debug\net6.0-windows\ref\Chat-app Server.dll
