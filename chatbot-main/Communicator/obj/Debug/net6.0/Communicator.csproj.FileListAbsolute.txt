@@ -1,0 +1,11 @@
+C:\Users\Said\source\repos\Chat-app\Communicator\bin\Debug\net6.0\Communicator.deps.json
+C:\Users\Said\source\repos\Chat-app\Communicator\bin\Debug\net6.0\Communicator.dll
+C:\Users\Said\source\repos\Chat-app\Communicator\bin\Debug\net6.0\Communicator.pdb
+C:\Users\Said\source\repos\Chat-app\Communicator\obj\Debug\net6.0\Communicator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Said\source\repos\Chat-app\Communicator\obj\Debug\net6.0\Communicator.AssemblyInfoInputs.cache
+C:\Users\Said\source\repos\Chat-app\Communicator\obj\Debug\net6.0\Communicator.AssemblyInfo.cs
+C:\Users\Said\source\repos\Chat-app\Communicator\obj\Debug\net6.0\Communicator.csproj.CoreCompileInputs.cache
+C:\Users\Said\source\repos\Chat-app\Communicator\obj\Debug\net6.0\Communicator.dll
+C:\Users\Said\source\repos\Chat-app\Communicator\obj\Debug\net6.0\refint\Communicator.dll
+C:\Users\Said\source\repos\Chat-app\Communicator\obj\Debug\net6.0\Communicator.pdb
+C:\Users\Said\source\repos\Chat-app\Communicator\obj\Debug\net6.0\ref\Communicator.dll
